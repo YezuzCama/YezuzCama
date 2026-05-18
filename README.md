@@ -1,7 +1,5 @@
 # 🚀 Jesús Gustavo Camacho Olivos
 
-# 👋 Jesús Gustavo Camacho Olivos
-
 <div align="center">
 
 ### Analista de Datos | Business Intelligence | Transformación Digital
