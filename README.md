@@ -1,224 +1,398 @@
 # 🚀 Jesús Gustavo Camacho Olivos
 
+# 👋 Jesús Gustavo Camacho Olivos
+
 <div align="center">
 
-### Full Stack Developer • Cloud Architect • Tech Content Creator • Mentor
+### Analista de Datos | Business Intelligence | Transformación Digital
 
-*Transformando ideas en código • Compartiendo conocimiento • Construyendo comunidad*
-
-[🔗 Portfolio](https://tu-portfolio.com) • [📖 Blog](https://tu-blog.com) • [🎥 YouTube](https://youtube.com/@tucanal) • [🐦 Twitter](https://twitter.com/tu-handle) • [📧 Email](mailto:tu-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-camacho-o-aa0b43149)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YezuzCama)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guscam07@gmail.com)
+[![Notion Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Jes-sGustavo-Camacho-Olivos-f715cfe4a5a94bffaf7970947f858669)
 
 </div>
 
 ---
 
-## 👋 ¿Quién soy?
+## 🎯 Sobre Mí
 
-Soy un desarrollador apasionado por crear soluciones escalables y compartir conocimiento con la comunidad tech. Con **5+ años de experiencia**, he trabajado en startups y empresas, liderando proyectos desde la arquitectura hasta la ejecución.
+Analista de Datos e Ingeniero en Sistemas con **7+ años de experiencia** combinando liderazgo operativo de alto rendimiento en la Secretaría de Marina con análisis avanzado de datos en entornos empresariales de alta demanda. 
 
-Mi misión es **empoderar a otros desarrolladores** a través de contenido educativo, mentorización y contribuciones open source.
+Especialista en **transformar grandes volúmenes de datos en insights accionables** mediante Python, SQL, Power BI y Tableau. Historial comprobado de **automatización de procesos que reducen tiempos operativos hasta un 35%** y mejoran la eficiencia organizacional en un 15%.
 
-> 💡 *"El mejor código no es el más complejo, es el que resuelve problemas reales y que otros pueden mantener fácilmente"*
+Perfil forjado bajo presión: planeación estratégica, gestión de equipos multidisciplinarios, toma de decisiones en entornos críticos y colaboración interdepartamental.
 
----
-
-## 🛠️ Mi Stack
-
-<table>
-<tr>
-<td><b>Lenguajes</b></td>
-<td>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td><b>Frontend</b></td>
-<td>
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td><b>Cloud & DevOps</b></td>
-<td>
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-</td>
-</tr>
-</table>
+> *"Los datos no son números. Son historias de cómo mejoran vidas y negocios."*
 
 ---
 
-## 🌟 Lo que hago
-
-### 💻 Desarrollo
-- Construcción de aplicaciones web escalables y de alto performance
-- Arquitectura de sistemas y microservicios
-- Optimización de bases de datos y infraestructura
-- Implementación de best practices y código limpio
-
-### 📚 Contenido Educativo
-- Artículos técnicos en [Blog Personal](https://tu-blog.com) y [Dev.to](https://dev.to)
-- Tutoriales en YouTube sobre arquitectura y fullstack
-- Documentación y guías prácticas
-
-### 🤝 Comunidad
-- Mentorización de desarrolladores junior y mid-level
-- Presentaciones en conferencias y meetups
-- Contribuciones activas a proyectos open source
-- Participación en comunidades tech
-
----
-
-## 📊 Impacto & Números
-
-```
-┌─────────────────────────────────────────────┐
-│  💼 5+ años en industria tech              │
-│  👥 100+ desarrolladores mentorizados      │
-│  ⭐ 5K+ stars en repositorios propios      │
-│  📖  50+ artículos técnicos publicados      │
-│  🎤 15+ conferencias y charlas             │
-│  🚀 10+ proyectos en producción            │
-│  ☁️ 99.9% uptime en sistemas bajo mi care │
-└─────────────────────────────────────────────┘
-```
-
----
-
-## 🏆 Últimos Proyectos
-
-### 📊 Analytics Dashboard en Tiempo Real
-Plataforma que procesa 2M+ eventos diarios con visualizaciones en vivo.
-- **Tech:** React + TypeScript + Node.js + PostgreSQL + WebSockets
-- **Impacto:** +200% adopción, 50% menos tiempo en decisiones
-- **[GitHub](https://github.com/tu-usuario/analytics-dashboard)** • **[Live](https://analytics-demo.com)** • **[Blog Post](https://tu-blog.com/analytics-dashboard)**
-
-### 🛒 Marketplace SaaS
-Plataforma de comercio conectando 500+ proveedores con pagos integrados.
-- **Tech:** Next.js + Stripe API + PostgreSQL + AWS Lambda
-- **Impacto:** $100K+ GMV, 4.9⭐ rating
-- **[GitHub](https://github.com/tu-usuario/marketplace)** • **[Live](https://marketplace.com)** • **[Case Study](https://tu-blog.com/marketplace-case-study)**
-
-### 🔌 Arquitectura de Microservicios
-Refactorización de monolito a microservicios escalable horizontalmente.
-- **Tech:** Node.js + Docker + Kubernetes + RabbitMQ
-- **Impacto:** 99.9% uptime, escalabilidad 10x
-- **[Artículo Técnico](https://tu-blog.com/microservices-migration)**
-
----
-
-## 📚 Mi Contenido
-
-### 🎥 YouTube
-**50+ tutoriales** sobre:
-- Arquitectura de sistemas escalables
-- Optimización de performance en React
-- DevOps y Cloud con AWS
-- JavaScript/TypeScript avanzado
-
-[➜ Ver canal](https://youtube.com/@tucanal)
-
-### ✍️ Blog & Dev.to
-**Artículos técnicos regulares:**
-- System Design y arquitectura
-- Performance web
-- DevOps best practices
-- Real-world case studies
-
-[➜ Blog Personal](https://tu-blog.com) • [➜ Dev.to](https://dev.to/tu-usuario)
-
-### 🎙️ Podcasts & Speaking
-- **Tech Talks Podcast** - "Building Systems at Scale"
-- **Dev Stories** - Mi trayectoria profesional
-- **Local Meetups** - Monthly talks sobre nuevas tecnologías
-- **Tech Conferences** - 5+ conferencias anuales
-
----
-
-## 🎓 Certificaciones & Educación
-
-### 📜 Certificaciones Profesionales
-- **AWS Certified Solutions Architect - Professional** ✅
-- **Kubernetes Application Developer (CKAD)** ✅
-- **Certified Scrum Developer (CSD)** ✅
-- **Google Cloud Associate Cloud Engineer** ✅
-
-### 📖 Cursos & Training
-- System Design Master Course (Educative)
-- Advanced TypeScript (egghead.io)
-- Microservices Patterns (O'Reilly)
-
-### 🎯 Educación Formal
-- **Licenciatura en Ingeniería en Sistemas** (2015-2019)
-
----
-
-## 🌍 Comunidad & Open Source
-
-### 🎁 Proyectos Destacados
-
-**[awesome-react-hooks](https://github.com/tu-usuario/awesome-react-hooks)** ⭐ 2.3K
-> Colección curada de los mejores React Hooks con ejemplos y explicaciones
-
-**[node-api-boilerplate](https://github.com/tu-usuario/node-api-boilerplate)** ⭐ 890
-> Template profesional para APIs Node.js con TypeScript, testing e integración CI/CD
-
-**[typescript-cheatsheet](https://github.com/tu-usuario/typescript-cheatsheet)** ⭐ 1.5K
-> Guía práctica de TypeScript con ejemplos del mundo real
-
-### 🤝 Contribuciones
-- **React** - 15+ PRs mergeados
-- **Next.js** - 8+ contribuciones
-- **TypeScript** - 3+ issues resueltos
-- Mantenedor de varios proyectos comunitarios
-
----
-
-## 💬 Conversemos
-
-Estoy interesado en:
-- 🚀 Proyectos desafiantes con impacto real
-- 🤝 Colaboraciones en open source
-- 👥 Mentorización y knowledge sharing
-- 💼 Speaking en conferencias y eventos
+## 💻 Stack Tecnológico
 
 <div align="center">
 
-### Conéctate conmigo
+### Lenguajes & Análisis
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jesusgustavo)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-handle)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to)](https://dev.to/tu-usuario)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tucanal)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
+### Business Intelligence & Visualización
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-13AACE?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-13AACE?style=flat-square&logo=python&logoColor=white)
 
-**📧 Envíame un email:** [tu-email@example.com](mailto:tu-email@example.com)
+### Librerías Python
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 
-**🌐 Portfolio:** [tu-portfolio.com](https://tu-portfolio.com)
+### Herramientas & Plataformas
+![Excel](https://img.shields.io/badge/Excel%20Avanzado-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Metodologías
+![ETL](https://img.shields.io/badge/ETL-007ACC?style=flat-square)
+![EDA](https://img.shields.io/badge/EDA-0077B6?style=flat-square)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-FF6B6B?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0D1117?style=flat-square)
 
 </div>
+
+---
+
+## 🚀 Experiencia Profesional
+
+### Analista de Datos y Operaciones
+**SOLEFIN** — Servicios Financieros · Ciudad de México | *Sep 2025 – Feb 2026*
+
+- 🔧 **Automaticé reportes financieros** con Excel avanzado y Power BI, reduciendo tiempo de entrega en **35%** y eliminando errores manuales en cobranza
+- 📊 **Diseñé dashboards interactivos** en Power BI para monitoreo semanal de KPIs estratégicos, facilitando toma de decisiones en tiempo real
+- ⚡ **Optimicé procesos internos** e implementé flujos de trabajo estandarizados, incrementando eficiencia operativa del área en **15%** en 90 días
+- 📈 **Generé reportes financieros y contables** para cobranza, finanzas y legal, mejorando visibilidad de desempeño y reduciendo tiempos de revisión
+- 👥 **Colaboré con equipos multifuncionales** (finanzas, cobranza, legal) como punto de enlace de datos, garantizando consistencia e integridad
+
+**Stack:** Excel Avanzado · Power BI · Python · SQL · Análisis Financiero
+
+---
+
+### Analista de Datos — Logística y Operaciones
+**Flash Pack** — Logística y E-commerce · Ciudad de México | *Jul 2024 – Jul 2025*
+
+- 🐍 **Implementé pipeline de automatización** en Python (pandas, numpy, matplotlib) que redujo tiempo de procesamiento de reportes en **30%**
+- 📍 **Desarrollé dashboards de rendimiento logístico** en SQL y Google Sheets para detectar oportunidades de mejora en rutas nacionales
+- 🗄️ **Gestioné y estructuré bases de datos** logísticas nacionales, garantizando calidad, integridad y trazabilidad de información
+- 📋 **Produje reportes semanales de KPIs** (entregas, rutas, tiempos) para dirección de operaciones en planeación táctica
+- 🔍 **Colaboré con múltiples áreas** (operaciones, finanzas, atención al cliente) proporcionando análisis que mejoraron respuesta a incidencias
+- 💡 **Identifiqué oportunidades de optimización** mediante análisis exploratorio, generando propuestas de mejora continua
+
+**Stack:** Python · SQL · Google Sheets · Pandas · Matplotlib · Data Wrangling
+
+---
+
+### Coordinador de Administración y Recursos
+**Hotel San Luis** — Hostelería · Cuitláhuac, Veracruz | *Ago 2023 – Jul 2024*
+
+- 💼 **Administré nómina y base de datos** del personal, garantizando precisión en pagos y cumplimiento laboral
+- 💰 **Gestioné presupuesto operativo**, elaborando reportes de gastos y proposing medidas de ahorro
+- 🏨 **Supervisé mantenimiento de instalaciones** y coordiné proveedores externos para continuidad operativa
+- 📞 **Atendí y resolví consultas** de clientes, manteniendo estándares de calidad y fidelización
+- 📊 **Elaboré informes de gestión** de recursos para dirección, identificando eficiencias operativas
+
+**Stack:** Excel · Google Sheets · Gestión de Recursos · Análisis Operativo
+
+---
+
+### Especialista Administrativo y Operativo
+**Secretaría de Marina – Armada de México (SEMAR)** · Múltiples Estados | *Jun 2017 – Jun 2023*
+
+Servicio de **6 años** en una de las instituciones de mayor rigor operativo de México, con rotaciones en 5 estados y despliegues en operaciones nacionales e internacionales.
+
+- 👥 **Lideré procesos de reclutamiento, contratación y capacitación** de personal naval activo y civil en DIGACOPER, gestionando ciclo completo del talento
+- 📋 **Administré nóminas, control de asistencia y evaluaciones** de desempeño en entornos de alta exigencia
+- 📦 **Elaboré y ejecuté planes operativos y logísticos** para distribución de recursos por vía marítima, terrestre y aérea
+- 🎯 **Coordiné operaciones multijurisdiccionales** con equipos de hasta 50 personas en escenarios críticos
+- 🌍 **Operación Multinacional SOLIDAREX 2019** (México–Perú–Ecuador–Colombia): coordinación de tácticas de Búsqueda y Rescate marítimo
+- 🚨 **Plan Marina 2017 (Sismo 19-S)**: lideré brigadas de rescate, distribución de víveres y seguridad perimetral en zonas de alto riesgo
+- ⚓ **Gestioné control del gasto** del Buque Patrulla Oceánica ARM. 'CHIAPAS' PO165
+
+**Stack:** Liderazgo · Gestión de Operaciones · Toma de Decisiones Críticas · Coordinación Interinstitucional
+
+---
+
+## 🏆 Proyectos Destacados
+
+### 1. **Dashboard Automatizado de Eficiencia Operativa**
+Sistema de seguimiento diario de indicadores que reemplazó procesos manuales.
+
+- **Impacto:** Reducción de 80% en tiempo de reporte (de horas a minutos)
+- **Tecnologías:** Python · Excel · Power BI · Automatización
+- **Resultado:** Dashboards en tiempo real para monitoreo de KPIs operativos
+- **Rol:** Diseño, implementación, optimización
+
+---
+
+### 2. **Análisis de Patrones de Compra — Instacart**
+Análisis de millones de registros de transacciones para identificar comportamientos de clientes.
+
+- **Impacto:** Identificación de 8+ patrones de recompra con alta correlación con ingresos
+- **Tecnologías:** Python · Pandas · Matplotlib · Análisis Exploratorio
+- **Dataset:** 3.4M+ registros de órdenes, 49K+ productos, 100+ categorías
+- **Resultado:** Recomendaciones de optimización de inventario y personalización por horario
+- **[GitHub](https://github.com/YezuzCama)**
+
+---
+
+### 3. **Análisis de Datos de Telecomunicaciones — Megaline**
+Análisis comparativo de planes tarifarios con pruebas de hipótesis estadísticas.
+
+- **Impacto:** Validación estadística de diferencias significativas entre planes y regiones
+- **Tecnologías:** Python · SciPy · Pruebas t-test · Estadística Inferencial
+- **Resultado:** Recomendación de estrategia de marketing óptima con evidencia estadística
+- **Enfoque:** 2,000+ clientes analizados, 3 regiones geográficas
+
+---
+
+### 4. **Dashboard de Videos en Tendencia — YouTube Analytics**
+Análisis de viralidad con visualización interactiva en Tableau.
+
+- **Impacto:** Identificación de factores que impulsan viralidad (tiempo, engagement, categoría)
+- **Tecnologías:** Python · Pandas · Tableau · Análisis de Tendencias
+- **Dataset:** Videos en tendencia por país, 12+ meses de datos históricos
+- **Resultado:** Dashboard interactivo con filtros por región y categoría para equipos de contenido
+- **Alcance:** Insights accionables sobre horarios, duraciones y categorías de alto rendimiento
+
+---
+
+### 5. **Aplicación de IA para Métricas de Ventas — Hackathon UTEL × Tienda Nube**
+Aplicación con IA integrada que democratiza acceso a métricas para emprendedores.
+
+- **Impacto:** 1er Lugar en Hackathon Universitario (Mar 2026)
+- **Tecnologías:** IA · Análisis de Negocio · Producto Digital · Diseño UX/UI
+- **Rol:** Análisis del modelo de negocio, identificación de KPIs críticos, coordinación con dev team
+- **Resultado:** Plataforma que elimina barrera de especialización en datos para pequeños negocios
+
+---
+
+### 6. **Análisis Integral de Telefonía Virtual — CallMeMaybe (Proyecto Final)**
+Proyecto final del bootcamp: análisis end-to-end con predicción de churn.
+
+- **Impacto:** Modelo de clasificación que predice abandono de clientes con 78%+ de precisión
+- **Tecnologías:** Python · SQL · Pandas · Power BI · Scikit-learn · Storytelling
+- **Pipeline:** ETL completo, análisis exploratorio, modelado predictivo, presentación ejecutiva
+- **Resultado:** Identificación de factores de churn e identificación de acciones preventivas
+- **Audiencia:** Presentado a stakeholders de negocio con visualizaciones profesionales
+
+---
+
+### 7. **16 Proyectos del Bootcamp TripleTen**
+Aplicación práctica de herramientas y metodologías reales sobre datasets auténticos.
+
+**Proyectos completados:**
+- Segmentación de Clientes (EDA, Clustering)
+- Análisis de Patrones de Comportamiento (Estadística Descriptiva)
+- Análisis de Hábitos en Streaming (Spotify) — 1M+ registros
+- Análisis de Comportamiento en E-commerce (Instacart) — 3.4M+ registros
+- Videojuegos: Análisis de Mercado Global (Regresión, Hipótesis)
+- Autos Usados: Exploratorio con Web App (Streamlit)
+- Ride-sharing: Análisis Zuber (SQL, Hipótesis)
+- Análisis de Cohortes y Métricas (Showz)
+- A/B Testing (Diseño y Evaluación)
+- Funnel de Conversión (E-commerce)
+- Machine Learning & Predicciones
+- Más en [GitHub](https://github.com/YezuzCama)
+
+---
+
+## 📊 Métricas de Impacto
+
+| Métrica | Resultado |
+|---------|-----------|
+| **Automatización de procesos** | 35% reducción en tiempos |
+| **Eficiencia operativa mejorada** | 15% incremento en productividad |
+| **Reportes automatizados** | 80% reducción en tiempo de generación |
+| **Análisis realizados** | 16+ proyectos completados en bootcamp |
+| **Datasets procesados** | 3M+ registros (promedio por proyecto) |
+| **Dashboards diseñados** | 5+ en producción |
+| **Modelos predictivos** | 3+ con 75%+ de precisión |
+| **Experiencia acumulada** | 7+ años en análisis y liderazgo operativo |
+
+---
+
+## 📚 Educación & Certificaciones
+
+### 📜 Formación Principal
+
+**Analista de Datos — Bootcamp Intensivo**
+TripleTen · 2024 – 2026
+- Stack: Python · SQL · Tableau · Power BI · Machine Learning Básico
+- 16 proyectos con datasets reales empresariales
+- Enfoque hands-on en análisis exploratorio, modelado predictivo y presentación ejecutiva
+
+**Ingeniería en Sistemas Computacionales** (En curso — 2026)
+Universidad Tecnológica en Línea de Latinoamérica (UTEL)
+
+**Preparatoria**
+Centro Universitario México · 2015
+
+---
+
+### 🎓 Certificaciones Técnicas
+
+**Análisis de Datos & Python**
+- ✅ Aspirante Analista de Datos — TripleTen 2026
+- ✅ Gurú de Análisis Empresarial — TripleTen 2026
+- ✅ Understanding Data Science — DataCamp 2025
+- ✅ SQL para Análisis de Datos — TripleTen 2025
+- ✅ Python — Análisis de Datos — Santander Academy 2026
+- ✅ Python — Kaggle 2026
+- ✅ Introducción a Programación — Kaggle 2026
+
+**Business Intelligence & Visualización**
+- ✅ Tableau & HTML — TripleTen 2025
+- ✅ Power BI — Santander Academy 2026
+- ✅ Excel Básico–Intermedio — Santander Academy 2026
+- ✅ Excel: Intermedio a Avanzado — Santander Academy 2026
+
+**Ciencia de Datos & IA**
+- ✅ Introducción a la Ciencia de Datos — Santander Academy 2026
+- ✅ Diplomado Internacional en Análisis en Sistemas — UTEL 2026
+- ✅ Certificado de Iniciación a Ingeniería con IA — Iberoamerican Tech Foundation 2026
+- ✅ Domina la IA con Gemini — Santander Academy 2026
+- ✅ Cursor con Python: desarrollo inteligente con IA — Santander Academy 2026
+
+**Liderazgo & Gestión**
+- ✅ Gestión efectiva de proyectos y equipos — Santander Academy 2026
+- ✅ Gestión de Proyectos y Fundamentos Agile — Santander Academy 2026
+- ✅ Liderazgo en el Entorno Digital — Santander Academy 2026
+- ✅ Inicio y Planificación de proyectos — University of California Irvine 2026
+
+**Finanzas & Compliance**
+- ✅ Prevención de Lavado de Dinero — SOLEFIN 2026
+- ✅ Prevención de Fraudes — SOLEFIN 2026
+- ✅ Educación Financiera — CONDUSEF 2025
+
+---
+
+## 🌐 Idiomas
+
+| Idioma | Nivel | Certificación |
+|--------|-------|---------------|
+| 🇲🇽 Español | Nativo | — |
+| 🇺🇸 Inglés | B1 Intermedio | En desarrollo |
+| 🎯 Técnico (Datos) | Fluido | Portfolio + Proyectos |
+
+---
+
+## 💡 Competencias Transferibles
+
+### Liderazgo & Gestión
+- ✓ Gestión de equipos multidisciplinarios
+- ✓ Liderazgo bajo presión
+- ✓ Toma de decisiones críticas
+- ✓ Planeación estratégica
+- ✓ Mentoría y desarrollo de talento
+
+### Operaciones
+- ✓ Logística y cadena de suministro
+- ✓ Coordinación interinstitucional
+- ✓ Gestión de riesgos
+- ✓ Control presupuestario
+- ✓ Mejora continua
+
+### Comunicación
+- ✓ Storytelling de datos
+- ✓ Presentación ejecutiva
+- ✓ Comunicación asertiva
+- ✓ Reportes técnicos y de negocio
+
+### Otros
+- ✓ Rigor metodológico
+- ✓ Resiliencia y adaptabilidad
+- ✓ Ética profesional
+- ✓ Enfoque en resultados
+
+---
+
+## 🎯 Casos de Uso & Expertise
+
+### Para Empresas
+- Automatización de reportes financieros y operativos
+- Análisis de patrones de clientes (segmentación, churn)
+- Dashboards ejecutivos para toma de decisiones
+- Optimización de procesos con análisis de datos
+- Machine Learning aplicado a pronósticos de negocio
+
+### Para Startups
+- MVP analytics: instrumentación y medición desde cero
+- Análisis de Unit Economics
+- Optimización de marketing con A/B testing
+- Dashboard de métricas clave (KPIs)
+- Growth analytics
+
+### Para Equipos de Datos
+- Pipelines de ETL en Python
+- Limpieza y transformación de datos (Data Wrangling)
+- Análisis exploratorio de datos (EDA)
+- Visualización con Power BI y Tableau
+- Modelado predictivo con Scikit-learn
+
+---
+
+## 🏅 Reconocimientos
+
+🥇 **1er Lugar — Hackathon UTEL × Tienda Nube** (Mar 2026)
+Aplicación de IA para democratización de métricas de ventas
+
+📊 **Aprobación 100% en Bootcamp TripleTen** (2024-2026)
+16 proyectos completados con excelencia en análisis y comunicación
+
+🎖️ **Auxilio a Población Civil** — Reconocimiento Institucional SEMAR (2017)
+Participación activa en brigadas de rescate (Sismo 19-S)
+
+---
+
+## 📬 Conectemos
+
+Siempre abierto a:
+- 💼 Oportunidades de análisis de datos desafiantes
+- 🤝 Proyectos de optimización operativa
+- 📊 Roles de Business Intelligence
+- 👥 Mentoría en análisis de datos
+- 💬 Conversaciones sobre transformación digital
+
+<div align="center">
+
+📧 **Email:** [guscam07@gmail.com](mailto:guscam07@gmail.com)
+
+💼 **LinkedIn:** [@jesus-camacho-o-aa0b43149](https://www.linkedin.com/in/jesus-camacho-o-aa0b43149)
+
+🐙 **GitHub:** [@YezuzCama](https://github.com/YezuzCama)
+
+📋 **Portfolio:** [Notion](https://www.notion.so/Jes-sGustavo-Camacho-Olivos-f715cfe4a5a94bffaf7970947f858669)
+
+📱 **Teléfono:** +52 726 116 50 02
+
+🌍 **Ubicación:** Ciudad de México, México
+
+</div>
+
+---
+
+## 🌟 Filosofía Profesional
+
+> **Los datos son el lenguaje del futuro. Mi misión es traducirlos en decisiones que generan impacto real.**
+
+Creo en:
+- **Claridad sobre complejidad** — Análisis profundo expresado en términos simples
+- **Impacto sobre técnica** — Las herramientas sirven al negocio, no al contrario
+- **Datos con propósito** — Cada análisis debe llevar a una acción
+- **Colaboración continua** — El mejor insight surge de la conversación
+- **Aprendizaje permanente** — El campo de datos evoluciona; yo también
 
 ---
 
@@ -226,109 +400,23 @@ Estoy interesado en:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YezuzCama&theme=nord&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&theme=tokyonight&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YezuzCama&theme=nord&layout=compact&hide_border=true)
 
 </div>
-
----
-
-## 🎯 Timeline
-
-```
-2015  2019         2020    2021      2022      2023-2026
-│      │            │       │         │         │
-└─────●──────────────●───────●─────────●─────────●
-      │              │       │         │         │
-   Educación     Junior Dev  Mid-Dev  Senior   Leadership
-                               +Certs   Dev
-```
-
----
-
-## 🌱 Actualmente Aprendiendo
-
-- 🤖 Machine Learning & Python para data science
-- 🔗 Web3 & Blockchain technology
-- ⚡ Edge Computing & Serverless patterns
-- 📊 Advanced System Design
-
----
-
-## 💡 Filosofía
-
-> 💭 *"El verdadero valor no está en la tecnología, sino en cómo la usamos para resolver problemas reales y mejorar la vida de las personas."*
-
-Mi enfoque es:
-- **Impacto > Complejidad** - Soluciones simples que funcionen
-- **Comunidad > Competencia** - Elevar el nivel de todos
-- **Aprendizaje > Certezas** - Siempre hay algo nuevo
-- **Usuarios > Código** - Lo que importa es el usuario
 
 ---
 
 <div align="center">
 
-### Si te gusta mi contenido, considerá:
-- ⭐ Darme una estrella en GitHub
-- 🔔 Suscribirte a mi [YouTube](https://youtube.com/@tucanal)
-- 📰 Seguirme en [Twitter](https://twitter.com/tu-handle)
-- 💌 Suscribirte a mi [Newsletter](https://tu-blog.com/newsletter)
+### 💜 Si te gusta lo que ves, déjame una ⭐ en GitHub
 
----
-
-**Construyendo el futuro, un línea de código a la vez** 🚀
+**Transformando datos en decisiones que generan impacto.**
 
 *Última actualización: Mayo 2026*
 
-![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&label=Profile+Views&color=0e75b6&style=flat)
-
 </div>
-
----
-
-## 🚀 Tecnologías y herramientas
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)  
-![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
----
-
-## 📂 Proyectos destacados
-- ⚖️ **Automatización legal**: Scripts en Python para descarga y organización de documentos.  
-- 📊 **Dashboards de productividad**: Heatmaps en Notion para hábitos y progreso.  
-- 🎥 **YouTube creativo**: Contenido con estética cyberpunk/lofi.  
-- 🌦️ **Análisis académico**: Python y SQL para estudiar transporte y clima.  
-- 📈 **Visualización de churn**: Dashboards en Power BI para KPIs y clientes.  
-
----
-
-## 🌐 Conecta conmigo
-- [LinkedIn](www.linkedin.com/in/jesus-camacho-o-aa0b43149)  
-- [YouTube](https://www.youtube.com/@HENKO-LOFI)
-- [Portafolio](https://www.notion.so/Jes-s-Gustavo-Camacho-Olivos-f715cfe4a5a94bffaf7970947f858669?source=copy_link) 
-
----
-
-✨ *Siempre aprendiendo, creando y buscando nuevas formas de conectar tecnología con arte.*
-<!--
-**YezuzCama/YezuzCama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=YezuzCama&theme=highcontrast&hide_border=true&locale=es&short_numbers=true)](https://git.io/streak-stats)
