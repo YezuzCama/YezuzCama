@@ -1,9 +1,53 @@
 ## Hi there 👋 I´m Jesus Camacho
-============================================================================================================================================================================
+---
 
-[Softskills](https://www.notion.so/Jes-s-Gustavo-Camacho-Olivos-f715cfe4a5a94bffaf7970947f858669?source=copy_link#275a9175433e8051b471f08f56e1a23f)
+## Software Skills
 
-[Skills]([https://www.notion.so/Jes-s-Gustavo-Camacho-Olivos-f715cfe4a5a94bffaf7970947f858669?source=copy_link#275a9175433e8051b471f08f56e1a23f](https://www.notion.so/Jes-s-Gustavo-Camacho-Olivos-f715cfe4a5a94bffaf7970947f858669?source=copy_link#275a9175433e80d1b313c347884c558b))
+---
+
+:visual-studio-code: Visual Studio Code
+
+:git: Git
+
+:github: Github
+
+:colab: Google Colab
+
+:excel:  Excel
+
+:programacion: Anaconda Navigator
+
+:programacion: Jupiter Notebook
+
+⚙️ **Data Wrangling**
+
+⚙️ **Dash**
+
+:python: Python 
+
+:mysql: SQL
+
+:javascript:  JSON
+
+:programacion: HTML
+
+:c-sharp: C#
+
+:c: C++
+
+:power-bi: POWER BI 
+
+📊 TABLEAU
+
+:mic: Paquetería de Office
+
+:google: Google Sheets
+
+:notion: Notion
+
+:canva: Canva
+
+
 
 <!--
 **YezuzCama/YezuzCama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
