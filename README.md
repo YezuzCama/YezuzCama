@@ -1,7 +1,6 @@
 ## Hi there 👋 I´m Jesus Camacho
 
-![Banner]([<img width="474" height="166" alt="image" src="https://github.com/user-attachments/assets/f30f9cbe-4074-4520-a7bc-620e5ede131c" />](https://cdn.pfps.gg/banners/2883-cyberpunk.png)
-) <!-- Sube tu banner cyberpunk/lofi al repositorio y reemplaza este nombre -->
+[[[<img width="474" height="166" alt="image" src="https://github.com/user-attachments/assets/f30f9cbe-4074-4520-a7bc-620e5ede131c" />](https://cdn.pfps.gg/banners/2883-cyberpunk.png)](https://cdn.pfps.gg/banners/2883-cyberpunk.png)](https://cdn.pfps.gg/banners/7231-cyberpunk-city.gif)
 
 Soy **Ingeniero en Computación (UTEL)** con experiencia en **automatización, análisis de datos y visualización**.  
 Me apasiona transformar información en soluciones claras y visuales, y también disfruto crear proyectos con estética **cyberpunk/lofi**.
