@@ -3,7 +3,7 @@
 Soy **Ingeniero en Computación (UTEL)** con experiencia en **automatización, análisis de datos y visualización**.  
 Me apasiona transformar información en soluciones claras y visuales, y también disfruto crear proyectos con estética **cyberpunk/lofi**.
 
-![cyber](https://cdn.pfps.gg/banners/7231-cyberpunk-city.gif)
+[cyber](https://cdn.pfps.gg/banners/7231-cyberpunk-city.gif)
 
 ---
 
