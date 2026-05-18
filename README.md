@@ -1,6 +1,6 @@
 ## Hi there 👋 I´m Jesus Camacho
 
-![Banner](<img width="474" height="166" alt="image" src="https://github.com/user-attachments/assets/f30f9cbe-4074-4520-a7bc-620e5ede131c" />
+![Banner]([<img width="474" height="166" alt="image" src="https://github.com/user-attachments/assets/f30f9cbe-4074-4520-a7bc-620e5ede131c" />](https://cdn.pfps.gg/banners/2883-cyberpunk.png)
 ) <!-- Sube tu banner cyberpunk/lofi al repositorio y reemplaza este nombre -->
 
 Soy **Ingeniero en Computación (UTEL)** con experiencia en **automatización, análisis de datos y visualización**.  
