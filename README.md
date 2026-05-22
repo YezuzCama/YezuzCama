@@ -196,10 +196,10 @@ Universidad Tecnológica en Línea de Latinoamérica (UTEL)
 
 ## 🏅 Reconocimientos
 
-🥇 **1er Lugar — Hackathon UTEL × Tienda Nube** (Mar 2026)
+🥇 ** Hackathon UTEL × Tienda Nube** (Mar 2026)
 Aplicación de IA para democratización de métricas de ventas
 
-📊 **Aprobación 100% en Bootcamp TripleTen** (2024-2026)
+📊 ** Bootcamp TripleTen** (2024-2026)
 16 proyectos completados con excelencia en análisis y comunicación
 
 🎖️ **Auxilio a Población Civil** — Reconocimiento Institucional SEMAR (2017)
